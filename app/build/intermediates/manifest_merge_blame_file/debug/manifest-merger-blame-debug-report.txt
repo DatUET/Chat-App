@@ -1,0 +1,227 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.chatwithusingfirebase"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:43:5-81
+11-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:43:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:44:5-80
+12-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:44:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:46:5-67
+13-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:46:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+14-->[com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+15-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+15-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+16-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+16-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+17
+18    <application
+18-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:7:5-42:19
+19        android:allowBackup="true"
+19-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:8:9-35
+20        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+20-->[com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+21        android:debuggable="true"
+22        android:icon="@mipmap/ic_launcher"
+22-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:9:9-43
+23        android:label="@string/app_name"
+23-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:10:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:11:9-54
+25        android:supportsRtl="true"
+25-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:12:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:13:9-40
+28        <activity
+28-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:15:9-16:68
+29            android:name="com.example.chatwithusingfirebase.ResetPasswordActivity"
+29-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:15:19-56
+30            android:parentActivityName="com.example.chatwithusingfirebase.LoginActivity" />
+30-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:16:13-56
+31        <activity android:name="com.example.chatwithusingfirebase.MessageActivity" />
+31-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:17:9-53
+31-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:17:19-50
+32        <activity android:name="com.example.chatwithusingfirebase.LoginActivity" />
+32-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:18:9-51
+32-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:18:19-48
+33        <activity android:name="com.example.chatwithusingfirebase.MainActivity" />
+33-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:19:9-50
+33-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:19:19-47
+34        <activity android:name="com.example.chatwithusingfirebase.RegisterActivity" />
+34-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:20:9-54
+34-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:20:19-51
+35        <activity android:name="com.example.chatwithusingfirebase.StartActivity" >
+35-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:21:9-27:20
+35-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:21:19-48
+36            <intent-filter>
+36-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:22:13-26:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:23:17-69
+37-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:23:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:25:17-77
+39-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:25:27-74
+40            </intent-filter>
+41        </activity>
+42
+43        <service
+43-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:28:9-34:19
+44            android:name="com.example.chatwithusingfirebase.Notification.MyFirebaseIdService"
+44-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:28:18-66
+45            android:enabled="true"
+45-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:29:13-35
+46            android:exported="true" >
+46-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:30:13-36
+47            <intent-filter>
+47-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:31:13-33:29
+48                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+48-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:17-79
+48-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:25-77
+49            </intent-filter>
+50        </service>
+51        <service
+51-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:35:9-41:19
+52            android:name="com.example.chatwithusingfirebase.Notification.MyFirebaseMessaging"
+52-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:35:18-66
+53            android:enabled="true"
+53-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:36:13-35
+54            android:exported="true" >
+54-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:37:13-36
+55            <intent-filter>
+55-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:38:13-40:29
+56                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+56-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:17-77
+56-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:25-75
+57            </intent-filter>
+58        </service>
+59        <!--
+60             FirebaseMessagingService performs security checks at runtime,
+61             no need for explicit permissions despite exported="true"
+62        -->
+63        <service
+63-->[com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+64            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+64-->[com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+65            android:exported="true" >
+65-->[com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+66            <intent-filter android:priority="-500" >
+66-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:38:13-40:29
+67                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+67-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:17-77
+67-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:25-75
+68            </intent-filter>
+69        </service>
+70
+71        <activity
+71-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+72            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+72-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+73            android:excludeFromRecents="true"
+73-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+74            android:exported="true"
+74-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+75            android:launchMode="singleTask"
+75-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+76            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+76-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+77-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+78
+79        <service
+79-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+80            android:name="com.google.firebase.components.ComponentDiscoveryService"
+80-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+81            android:exported="false" >
+81-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+82            <meta-data
+82-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+83                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+83-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+84                android:value="com.google.firebase.components.ComponentRegistrar" />
+84-->[com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+85            <meta-data
+85-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+86                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+86-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+88        </service>
+89
+90        <receiver
+90-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+91            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+91-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+92            android:exported="true"
+92-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+93            android:permission="com.google.android.c2dm.permission.SEND" >
+93-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+94            <intent-filter>
+94-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+95                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+95-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+95-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+96            </intent-filter>
+97        </receiver>
+98        <!--
+99             FirebaseInstanceIdService performs security checks at runtime,
+100             no need for explicit permissions despite exported="true"
+101        -->
+102        <service
+102-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+103            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+103-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+104            android:exported="true" >
+104-->[com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+105            <intent-filter android:priority="-500" >
+105-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:31:13-33:29
+106                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+106-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:17-79
+106-->/home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:25-77
+107            </intent-filter>
+108        </service>
+109
+110        <provider
+110-->[com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+111            android:name="com.google.firebase.provider.FirebaseInitProvider"
+111-->[com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+112            android:authorities="com.example.chatwithusingfirebase.firebaseinitprovider"
+112-->[com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+113            android:exported="false"
+113-->[com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+114            android:initOrder="100" />
+114-->[com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+115
+116        <activity
+116-->[com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+117            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+117-->[com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+118            android:exported="false"
+118-->[com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+119            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+119-->[com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+120
+121        <meta-data
+121-->[com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+122            android:name="com.google.android.gms.version"
+122-->[com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
+123            android:value="@integer/google_play_services_version" />
+123-->[com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+124    </application>
+125
+126</manifest>

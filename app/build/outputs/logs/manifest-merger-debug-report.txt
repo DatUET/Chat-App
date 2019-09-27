@@ -1,0 +1,429 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:design:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6c2164896ca319583b40d5b80aa35763/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/35da3da9e08efdac6bdd20fdb54fccdd/library-2.1.4/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b320a443effd06c78f4f9e5ddfe89b1a/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/f14a8d3cde177ec9b4d395ad01a54632/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9df95c7e0b4f3f53fe5c84610150df1a/circleimageview-3.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9524f5404de7b2826639b0f6a372f533/glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6af07abe1c6b51ba70a3a6000fce7d97/firebase-auth-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f1fb37bded1b3eab4802018448533bc/firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/472c1fc7ae234eeab1e8661e1d3e35ec/play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6219475007926e618c0ccef59df67e75/firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/ede359b0bf032c8682299509587a4e7b/play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a94edf78a298bc4b357b6079e102cc4b/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/845e091032ca2061619bb35b5c2614bb/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f7239896cd8e1e382a3fd71565b8b288/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ad6141accb91052c9870b8d2e14fec9d/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ef79124f0bd9c34f8348139d6c78a5b7/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f94f911c48b784483863caa0d1b69c79/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/43aa7bdd8895886c797a042cb22a6544/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/e2a029a3290af16a4d419d2d501adeda/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b7dc2e499cd571b6c5ba0eec437866f1/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/c6caa57dfc132cbd041e0dae542be0a2/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/dd5573a89bd75c3ee1c53810410ef2ba/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/aba2432f202774b83983d220847ad226/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/16c10e4d08e36217eb0763f1e03f94a9/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b6019c7a0b9ddcb41301864a6ddfb18f/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/624064a09b6288a5178059d2123a43cf/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8524300dfafb44db53d40d03fc218ceb/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f12292d72be7916a05aca35e236c5a7/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/eec9b276221d56f06908dc491920398d/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/990158c927c012d1677031ad14165542/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6d1ac33fa7bf63a59abf96edc65f6fce/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a063d58e888064bd018cfb793522c0df/gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/fe6283a58839026a8ad542672ca589c6/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/1697d9bc7a544183551856c5571ddc50/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/484db9973b2cf3f7eff1e10b8ff90ddc/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/d43503f79af7698b41c1fdadbf3cc0ed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/83a6efe989782ba0ff7ff34408c7f22f/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/0e337cc19638747a72f0dd7361d3b1f9/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/987e9b10c40dacf71c326fb133cfcf12/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/bcc6fd35cc65f90790bfddae72ea5b9b/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/1754c37170a596c2565dcdf21351b275/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:4:5-48
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:3:5-63
+application
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:7:5-42:19
+MERGED from [com.android.support:design:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6c2164896ca319583b40d5b80aa35763/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6c2164896ca319583b40d5b80aa35763/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/f14a8d3cde177ec9b4d395ad01a54632/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/f14a8d3cde177ec9b4d395ad01a54632/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9df95c7e0b4f3f53fe5c84610150df1a/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9df95c7e0b4f3f53fe5c84610150df1a/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9524f5404de7b2826639b0f6a372f533/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9524f5404de7b2826639b0f6a372f533/glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6af07abe1c6b51ba70a3a6000fce7d97/firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6af07abe1c6b51ba70a3a6000fce7d97/firebase-auth-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f1fb37bded1b3eab4802018448533bc/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f1fb37bded1b3eab4802018448533bc/firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/472c1fc7ae234eeab1e8661e1d3e35ec/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/472c1fc7ae234eeab1e8661e1d3e35ec/play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6219475007926e618c0ccef59df67e75/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6219475007926e618c0ccef59df67e75/firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/ede359b0bf032c8682299509587a4e7b/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/ede359b0bf032c8682299509587a4e7b/play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/eec9b276221d56f06908dc491920398d/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/eec9b276221d56f06908dc491920398d/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a063d58e888064bd018cfb793522c0df/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a063d58e888064bd018cfb793522c0df/gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.chatwithusingfirebase.ResetPasswordActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:15:9-16:68
+	android:parentActivityName
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:15:19-56
+activity#com.example.chatwithusingfirebase.MessageActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:17:9-53
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:17:19-50
+activity#com.example.chatwithusingfirebase.LoginActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:18:19-48
+activity#com.example.chatwithusingfirebase.MainActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.example.chatwithusingfirebase.RegisterActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:20:19-51
+activity#com.example.chatwithusingfirebase.StartActivity
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:21:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:25:27-74
+service#com.example.chatwithusingfirebase.Notification.MyFirebaseIdService
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:28:9-34:19
+	android:enabled
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:28:18-66
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:31:13-33:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:17-79
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:32:25-77
+service#com.example.chatwithusingfirebase.Notification.MyFirebaseMessaging
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:35:9-41:19
+	android:enabled
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:35:18-66
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:38:13-40:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:39:25-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:43:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:44:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:46:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml:46:22-64
+uses-sdk
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6c2164896ca319583b40d5b80aa35763/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6c2164896ca319583b40d5b80aa35763/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/35da3da9e08efdac6bdd20fdb54fccdd/library-2.1.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/35da3da9e08efdac6bdd20fdb54fccdd/library-2.1.4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b320a443effd06c78f4f9e5ddfe89b1a/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b320a443effd06c78f4f9e5ddfe89b1a/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/f14a8d3cde177ec9b4d395ad01a54632/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/f14a8d3cde177ec9b4d395ad01a54632/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9df95c7e0b4f3f53fe5c84610150df1a/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9df95c7e0b4f3f53fe5c84610150df1a/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9524f5404de7b2826639b0f6a372f533/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/9524f5404de7b2826639b0f6a372f533/glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6af07abe1c6b51ba70a3a6000fce7d97/firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6af07abe1c6b51ba70a3a6000fce7d97/firebase-auth-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/d7fd52ff39fcfe3aa632970464d9e385/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f1fb37bded1b3eab4802018448533bc/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f1fb37bded1b3eab4802018448533bc/firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/472c1fc7ae234eeab1e8661e1d3e35ec/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/472c1fc7ae234eeab1e8661e1d3e35ec/play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6219475007926e618c0ccef59df67e75/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/6219475007926e618c0ccef59df67e75/firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ee8d1d2e67fe5cefc11f0f771a27a22e/firebase-database-collection-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/ede359b0bf032c8682299509587a4e7b/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/ede359b0bf032c8682299509587a4e7b/play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a94edf78a298bc4b357b6079e102cc4b/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a94edf78a298bc4b357b6079e102cc4b/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/845e091032ca2061619bb35b5c2614bb/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/845e091032ca2061619bb35b5c2614bb/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f7239896cd8e1e382a3fd71565b8b288/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f7239896cd8e1e382a3fd71565b8b288/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ad6141accb91052c9870b8d2e14fec9d/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ad6141accb91052c9870b8d2e14fec9d/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ef79124f0bd9c34f8348139d6c78a5b7/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/ef79124f0bd9c34f8348139d6c78a5b7/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f94f911c48b784483863caa0d1b69c79/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/f94f911c48b784483863caa0d1b69c79/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/43aa7bdd8895886c797a042cb22a6544/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/43aa7bdd8895886c797a042cb22a6544/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/e2a029a3290af16a4d419d2d501adeda/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/e2a029a3290af16a4d419d2d501adeda/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b7dc2e499cd571b6c5ba0eec437866f1/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b7dc2e499cd571b6c5ba0eec437866f1/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/c6caa57dfc132cbd041e0dae542be0a2/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/c6caa57dfc132cbd041e0dae542be0a2/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/dd5573a89bd75c3ee1c53810410ef2ba/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/dd5573a89bd75c3ee1c53810410ef2ba/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/aba2432f202774b83983d220847ad226/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/aba2432f202774b83983d220847ad226/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/16c10e4d08e36217eb0763f1e03f94a9/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/16c10e4d08e36217eb0763f1e03f94a9/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b6019c7a0b9ddcb41301864a6ddfb18f/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/b6019c7a0b9ddcb41301864a6ddfb18f/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/624064a09b6288a5178059d2123a43cf/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/624064a09b6288a5178059d2123a43cf/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8524300dfafb44db53d40d03fc218ceb/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8524300dfafb44db53d40d03fc218ceb/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f12292d72be7916a05aca35e236c5a7/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/8f12292d72be7916a05aca35e236c5a7/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/895559d2bf708e950c8f9daa6bb1fb41/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/eec9b276221d56f06908dc491920398d/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/eec9b276221d56f06908dc491920398d/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/990158c927c012d1677031ad14165542/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/990158c927c012d1677031ad14165542/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6d1ac33fa7bf63a59abf96edc65f6fce/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/6d1ac33fa7bf63a59abf96edc65f6fce/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a063d58e888064bd018cfb793522c0df/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/a063d58e888064bd018cfb793522c0df/gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/fe6283a58839026a8ad542672ca589c6/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/fe6283a58839026a8ad542672ca589c6/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/1697d9bc7a544183551856c5571ddc50/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/1697d9bc7a544183551856c5571ddc50/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/484db9973b2cf3f7eff1e10b8ff90ddc/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/484db9973b2cf3f7eff1e10b8ff90ddc/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/d43503f79af7698b41c1fdadbf3cc0ed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/d43503f79af7698b41c1fdadbf3cc0ed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/83a6efe989782ba0ff7ff34408c7f22f/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/83a6efe989782ba0ff7ff34408c7f22f/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/0e337cc19638747a72f0dd7361d3b1f9/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/0e337cc19638747a72f0dd7361d3b1f9/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/987e9b10c40dacf71c326fb133cfcf12/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/987e9b10c40dacf71c326fb133cfcf12/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/bcc6fd35cc65f90790bfddae72ea5b9b/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/bcc6fd35cc65f90790bfddae72ea5b9b/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/1754c37170a596c2565dcdf21351b275/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/1754c37170a596c2565dcdf21351b275/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		ADDED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+		INJECTED from /home/datuet/Desktop/ChatWithUsingFirebase/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/867110f9d52010542d15c324d0eb9dee/firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /home/datuet/.gradle/caches/transforms-2/files-2.1/6ac6735473ac39f6fdccb1ce3c615248/firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/4d918562546c21333825c652a639e1f9/firebase-storage-16.0.4/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/bd9fea90f32c6472f55f9a06f9546aeb/firebase-database-16.0.4/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/datuet/.gradle/caches/transforms-2/files-2.1/f812aa0c82fadb0bc8e1403264ebbc81/firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/datuet/.gradle/caches/transforms-2/files-2.1/a48782d3fd02d5ce5e143923d5cc08c6/firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/datuet/.gradle/caches/transforms-2/files-2.1/b9ffff42fac733baed479ce77a508552/play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/datuet/.gradle/caches/transforms-2/files-2.1/842b0d812f2707d65523056e2de6ee96/play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
